@@ -19,3 +19,7 @@ The File to Run is RunSearch and Make sure the file has all the other files/fold
 IMPORTANT.
 DO NOT SHORTEN THE IMPLICILITY WAIT TIME FOR DRIVER. THE WEBSITES WILL NOT LOAD AND AFTer ENOUGH TIMES, WILL LEAD YOUR IP TO BE BANNED
 FROM THAT WEBSITE!
+
+
+DRIVERS
+You can use which ever driver you'd like however I suggest running it in incognito mode. A chrome driver is default for this project
