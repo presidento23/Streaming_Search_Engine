@@ -14,6 +14,8 @@ and as well delete the functions from the search_for_movie/tv in SearchFeatureFo
 
 The Search is particularly slow due to websites having lots of ads. I would suggest adding ad block or something of that nature.
 
+The File to Run is RunSearch and Make sure the file has all the other files/folders in it's path
+
 IMPORTANT.
 DO NOT SHORTEN THE IMPLICILITY WAIT TIME FOR DRIVER. THE WEBSITES WILL NOT LOAD AND AFTer ENOUGH TIMES, WILL LEAD YOUR IP TO BE BANNED
 FROM THAT WEBSITE!
