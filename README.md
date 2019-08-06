@@ -22,7 +22,7 @@ FROM THAT WEBSITE!
 
 
 DRIVERS
-You can use which ever driver you'd like however I suggest running it in incognito mode. A chrome driver is default for this project
+You can use which ever driver you'd like however I suggest running it in incognito mode. A chrome driver is default for this project. All other drivers are not supported. It is CRUCIAL THAT YOU RUN CHROME DRIVER WITH A SUPPORT CHROME VERSION. IT WILL NOT WORK OTHERWISE.
 
 
-Most likely broken now due to usage of xpaths for locatars. If you would like to fix it simply change the xpath function to search for class or id instead.
+
