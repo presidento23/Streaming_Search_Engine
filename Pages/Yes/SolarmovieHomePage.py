@@ -12,7 +12,7 @@ class YesSolarHome():
 
 
     def enter_search_bar(self,title):
-        self.driver.find_element_by_xpath(self.search_bar_xpath).clear()
+        self.driver.find_element_by_xpath(self.search_bar_xpath)
         ActionChains(self.driver).click(self.driver.find_element_by_xpath(self.search_bar_xpath)).send_keys(title).key_down(Keys.ENTER).key_up(Keys.ENTER).perform()
 
     def find_old_website(self):
