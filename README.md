@@ -1,4 +1,9 @@
-# Illicit_Streaming_Search_Engine
+# Streaming_Search_Engine
+
+This project scraps streaming sites for the quality of their movies and the number episodes available for tv shows. Generally speaking Tv Shows are in HD.
+This was built in a POM style for accessability. 
+
+Just wanted to state I am in no way advocating the subversion of copyright laws. This tool was designed simply to search third party streaming sites. Where they get their content from is none of my business.
 
 Prompts user for input for the title and type of media they would like to find. And when applicable the number of seaons the user expects.
 
